@@ -1,7 +1,7 @@
 # Weather-box
 Check the weather of different cities of the world at one place!
 
-# How to run this?
+## How to run this?
 
 1. Download the project.
 2. Go into the project directory using the terminal.
